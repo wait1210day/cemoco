@@ -1,0 +1,8 @@
+//
+// Created by sora on 2026/1/1.
+//
+
+#ifndef CEMOCO_SUPERVISOR_TASK_H
+#define CEMOCO_SUPERVISOR_TASK_H
+
+#endif //CEMOCO_SUPERVISOR_TASK_H
